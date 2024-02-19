@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "airport-challenge",
+  "version": "1.0.0",
+  "scripts": { 
+    "start": "node src/index.js",
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
+
